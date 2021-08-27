@@ -1,19 +1,16 @@
-### Hi there 👋
+![](https://images.cooltext.com/5549065.png)
 
-<!--
-**jaberwooc/jaberwooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5549065.png" width="366" height="85" alt="Jafet Diaz" /></a>
+<br />Image by <a href="https://es.cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3917292866">Create An Image Just Like This</a>
 
-Here are some ideas to get you started:
+### Hola  👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Gusto de visitar mi perfil ✨ Jafet Diaz ✨.
+
+⚡ Mi horario de clases es :
+
+
 | Lunes                              	|               Martes               	| Miercoles              	| Jueves                 	                    | Viernes             	|
 |------------------------------------	|:----------------------------------:	|------------------------	|-------------------------------------------	|-----------------------|
 | Ingeniería de software             	| Ingeniería de software             	| Ingeniería de software 	          | Ingeniería de software            | Ingeniería de software|
