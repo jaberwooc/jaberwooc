@@ -1,7 +1,5 @@
 ![](https://images.cooltext.com/5549065.png)
 
-<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5549065.png" width="366" height="85" alt="Jafet Diaz" /></a>
-<br />Image by <a href="https://es.cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3917292866">Create An Image Just Like This</a>
 
 ### Hola  👋
 
