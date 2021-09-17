@@ -1,6 +1,6 @@
-@@ Programa 33 imagenes 
+## Programa 31 imagenes 
 
-![alt text](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/31_2.png)
+![](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/31_2.png)
 
-@@ Ejecucion del programa
-![alt text](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/31.png)
+## Ejecucion del programa
+![](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/31.png)
