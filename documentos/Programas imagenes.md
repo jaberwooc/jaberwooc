@@ -14,3 +14,13 @@
 
 ## Ejecucion del programa 😃
 ![](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/32_b.png)
+
+
+
+
+## Programa 35 imagenes ☜(ﾟヮﾟ☜)
+
+![](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/35_a.png)
+
+## Ejecucion del programa 😃
+![](https://github.com/jaberwooc/jaberwooc/blob/main/documentos/35_b.png)
